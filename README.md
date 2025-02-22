@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p> <center>💥 My name is Jonathan and i'm currently doing a formation to becoming a Web Developer. I'm kinda stressed but I will do my best! !💥</center></p>
+<p align="center">💥 My name is Jonathan and i'm currently doing a formation to becoming a Web Developer. I'm kinda stressed but I will do my best! !💥<p align="center">
  
 <p> <center>I'm a cool guy and a lot of people tells that i'm really smart 🤓</center></p>
 <p><strong>Languages acquired</strong></p>
