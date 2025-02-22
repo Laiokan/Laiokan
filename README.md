@@ -14,7 +14,9 @@
 <img src="https://github.com/user-attachments/assets/9085f218-c7e4-4d5f-bcce-e895475e6a01"> <img src="https://github.com/user-attachments/assets/b002dc55-d0d6-4244-8cbe-43b6f0f27a8a"> <img src="https://github.com/user-attachments/assets/a3f9d8e4-55e4-44fa-9016-97829d5ddb25"> <img src="https://github.com/user-attachments/assets/39dfcb23-59c0-410e-87f3-17fa4341e107"> <img src="https://github.com/user-attachments/assets/4e76128c-1706-4017-a08a-980205f878d0">
 </p>
 
+<p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ0a2wzNHgxdGJmdWRvdDJzMnRhYjZheGxtcGltNjM1bjlpajB1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif">
+</p>
 
 
 
