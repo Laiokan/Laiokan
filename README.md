@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
- 💥 My name is Jonathan and i'm currently doing a formation to becoming a Web Developer. I'm kinda stressed but I will do my best! !💥
+<p align="center"><strong>
+ 💥 My name is Jonathan and i'm currently doing a formation to becoming a Web Developer. I'm kinda stressed but I will do my best! !💥</strong>
 </p>
  
 <p align="center">
