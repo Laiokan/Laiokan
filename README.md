@@ -4,8 +4,8 @@
  💥 My name is Jonathan and i'm currently doing a formation to becoming a Web Developer. I'm kinda stressed but I will do my best! !💥</strong>
 </p>
  
-<p align="center">
- I'm a cool guy and a lot of people tells that i'm really smart 🤓
+<p align="center"><strong>
+ I'm a cool guy and a lot of people tells that i'm really smart 🤓</strong>
 </p>
 
 <p align="center"><strong>Languages acquired</strong></p>
